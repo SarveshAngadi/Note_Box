@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Note Box</string>
+    <string name="my_notes">Note Box</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Subtitle</string>
+    <string name="type_note_here">Type your note here...</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="click_to_add_image">Click to Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_note">Delete</string>
+    <string name="are_you_sure_about_deleting_this_note">Are you sure about deleting this note?</string>
+    <string name="note_box">Note Box</string>
+</resources>
